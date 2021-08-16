@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I do not currently work on a project or with a team. I have worked as a Frontend developer for about a year. I have used technologies such as React js., Next js., styled-system, syled-components, storybook.  
+Before working as Frontend developer I have attended Kodluyoruz 42. Net Core Bootcamp, successfully graduated from it. I have gained skills on such as MVC pattern, model validation and binding etc...   
+Finally, I started create something as game developer. I developed 2 different games and one of them was hyper casual 2d game, other one was maze solving game. Maze solving game also uses maze create algorithm while starting new level.
 <!--
 **mustafaalby/mustafaalby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
